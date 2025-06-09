@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
 
@@ -35,5 +35,5 @@ int main()
 	cout << "tot:" << tot << " agv:" << avg << endl;
 
 	return 0;
-
+	
 }
